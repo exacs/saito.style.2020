@@ -1,4 +1,6 @@
-div {
-  background: red;
+body {
+  margin: 0;
+  padding: 0;
+  background: #070029;
   color: white;
 }
