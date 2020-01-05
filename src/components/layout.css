@@ -2,11 +2,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body {
-  margin: 0;
-  padding: 0;
-  background: #070029;
-  color: white;
-  font-size: 16px;
-}
