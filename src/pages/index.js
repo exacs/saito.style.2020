@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <Logo />
+    <Logo className='mx-auto my-8 h-32 w-auto' />
     <Timeline />
   </Layout>
 )
