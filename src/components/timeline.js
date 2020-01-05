@@ -15,7 +15,7 @@ export default () => (
           <div>KTH Royal Institute of Technology</div>
         </div>
       </div>
-      <main>
+      <main className='font-serif'>
         Developer at e-learning team of the KTH. Mainly write Node.JS
         open-source apps (github.com/kth) to sync data between KTH’s internal
         systems and Canvas –an externally developed Learning Management System–;
