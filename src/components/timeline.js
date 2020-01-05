@@ -1,7 +1,7 @@
 import React from "react"
 
 export default () => (
-  <div className="m-4">
+  <div>
     <section>
       <div>2018 - present</div>
       <h2>Developer consultant at KTH's e-learning team</h2>
