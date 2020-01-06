@@ -27,5 +27,16 @@ export default () => (
         </div>
       </div>
     </section>
+
+    <section className='my-16'>
+      <div className='font-bold text-indigo-100'>2013/sep - 2018/jun</div>
+      <h2 className='text-xl font-bold my-2'>Computer Enginner Undergraduate</h2>
+      <div className='my-4'>
+        <div className='my-4 text-sm'>
+          <div className='text-indigo-300'>Institution</div>
+          <div className='text-indigo-100'>UPM (Technical University of Madrid)</div>
+        </div>
+      </div>
+    </section>
   </div>
 )
