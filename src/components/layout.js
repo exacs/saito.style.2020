@@ -7,6 +7,6 @@ export default ({ children }) => (
     <Helmet>
       <title>saito.style</title>
     </Helmet>
-    <div className='p-4 font-sans text-white container mx-auto'>{children}</div>
+    <div className='p-4 font-sans text-white max-w-xl mx-auto'>{children}</div>
   </div>
 )
