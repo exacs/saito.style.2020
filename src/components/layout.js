@@ -3,7 +3,7 @@ import Helmet from "react-helmet"
 import "./layout.css"
 
 export default ({ children }) => (
-  <div className='bg-indigo-900'>
+  <div className='bg-indigo-900 min-h-screen'>
     <Helmet>
       <title>saito.style</title>
     </Helmet>
